@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Website For $50]]></title>
         <description><![CDATA[Website For $50]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/website-for-50/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 19:28:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 19:29:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/website-for-50/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We
@@ -13,9 +13,9 @@
  they were looking for in a website design company. What we found out 
 was exactly what we expected: top quality products at affordable prices,
  and great customer service.</p>]]></description>
-            <link>undefined0b336d8b-f112-47b1-95b5-dffd6b87c056/index.html</link>
+            <link>https://thegrid.ai/website-for-50/0b336d8b-f112-47b1-95b5-dffd6b87c056/index.html</link>
             <guid isPermaLink="false">0b336d8b-f112-47b1-95b5-dffd6b87c056</guid>
-            <pubDate>Wed, 17 Feb 2016 19:17:06 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 19:19:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
