@@ -2,6 +2,7 @@ name: Website For 50
 favicon: null
 layout_spectrum: 0.4721910860389471
 typography_spectrum: 0.27717644814401865
+title: Website For $50
 cta:
   domain: null
   bucket: null
